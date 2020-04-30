@@ -1,0 +1,40 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - concurrently > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - finale-rest > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - grunt-contrib-compress > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - sequelize > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - grunt > grunt-legacy-log > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - grunt > grunt-legacy-util > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - portscanner > async > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - winston > async > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - grunt-contrib-compress > archiver > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - grunt > grunt-legacy-log > grunt-legacy-log-utils > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - grunt-contrib-compress > archiver > archiver-utils > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - grunt-contrib-compress > archiver > async > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - grunt-contrib-compress > archiver > zip-stream > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - grunt-contrib-compress > archiver > zip-stream > archiver-utils > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - pug > pug-code-gen > constantinople > babel-types > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - pug > pug-filters > constantinople > babel-types > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
+    - pug > pug-code-gen > pug-attrs > constantinople > babel-types > lodash:
+        patched: '2020-04-30T22:38:46.046Z'
