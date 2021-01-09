@@ -48,7 +48,7 @@
     "node-sass": "^4.12.0",
     "rxjs": "6.4.0",
     "snarkdown": "^1.2.2",
-    "socket.io-client": "^2.2.0",
+    "socket.io-client": "^3.0.0",
     "typescript": "~3.4.5",
     "zone.js": "^0.10.2"
   },
