@@ -45,7 +45,7 @@
     "ngx-clipboard": "^12.2.0",
     "ngx-cookie": "^4.1.2",
     "ngx-spinner": "^8.0.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^6.0.1",
     "rxjs": "6.4.0",
     "snarkdown": "^1.2.2",
     "socket.io-client": "^2.2.0",
