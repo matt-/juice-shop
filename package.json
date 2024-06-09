@@ -131,7 +131,7 @@
     "sqlite3": "^4.1.0",
     "svg-captcha": "^1.4.0",
     "swagger-ui-express": "^4.0.7",
-    "unzipper": "0.9.15",
+    "unzipper": "0.12.1",
     "winston": "^3.2.1",
     "z85": "^0.0.2"
   },
