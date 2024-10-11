@@ -16,7 +16,7 @@
     "@angular/cli": "~8.1.0",
     "@angular/common": "~8.1.0",
     "@angular/compiler": "~8.1.0",
-    "@angular/compiler-cli": "~8.1.0",
+    "@angular/compiler-cli": "~18.2.8",
     "@angular/core": "~8.1.0",
     "@angular/flex-layout": "8.0.0-beta.26",
     "@angular/forms": "~8.1.0",
